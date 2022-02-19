@@ -96,7 +96,7 @@ a {
   justify-content: center;
   align-items: center;
   flex: 1;
-  color: #03dac6;
+  color: #39ff14;
   letter-spacing: 0.1rem;
   transition: all 0.5s ease;
   font-size: 2vw;
@@ -104,7 +104,7 @@ a {
 
 .nav-tab:hover {
   color: #1e1f26;
-  background: #03dac6;
+  background: #39ff14;
   transition: all 0.5s ease;
 }
 
@@ -113,7 +113,7 @@ a {
   bottom: 0;
   width: 0;
   height: 5px;
-  background: #03dac6;
+  background: #39ff14;
   transition: left 0.3s ease;
 }
 .background {
