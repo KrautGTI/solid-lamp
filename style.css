@@ -50,7 +50,7 @@ h3.span {
   letter-spacing: 0.15rem;
   font-family: "ROBOTO", sans-serif;
   font-weight: 300;
-  color: #faebd7;
+  color: #39ff14;
   z-index: 4;
 }
 span:hover {
@@ -175,7 +175,7 @@ a {
 @-webkit-keyframes loading {
   to {
     text-shadow: 20px 0 70px #ff0266;
-    color: #ff0266;
+    color: #39ff14;
   }
 }
 .loader span:nth-child(2) {
